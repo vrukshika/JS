@@ -1,0 +1,29 @@
+body{
+    font-family: Arial;
+}
+
+#mainImg{
+    width: 50%;
+}
+
+.box{
+    border: solid 2px rgb(59, 16, 139);
+    background-color: burlywood;
+    width: 200px;
+    padding: 1rem;
+
+}
+
+.boxLink{
+    text-decoration: none;
+}
+
+.oldImg{
+    width: 200px;
+    height: 200px;
+    padding: 1rem;
+}
+
+#desc{
+    background-color: antiquewhite;
+}
